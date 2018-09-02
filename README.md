@@ -7,9 +7,9 @@
 
 
 ## Integrantes
-- < Boris Cuevas > - <FCFM>
-- < Victoria Andaur > - <FCFM>
-- < Cristóbal Jaramillo > - <FCFM>
+-Boris Cuevas - FCFM
+-Victoria Andaur - FCFM
+-Cristóbal Jaramillo - FCFM
 
 
 
