@@ -5,6 +5,16 @@ Se deben subir:
 - Foto del proyecto terminado
 - Vídeo de demostración/funcionamiento
 
+Cupula del robot original
+
+![Robot](/multimedia/Cupula.jpeg)
+
+![Robot](/multimedia/Cupula2.jpeg)
+
+La base del robot
+
+![Robot](/multimedia/Primercorte.jpeg)
+
 Vista desde uno de los lados del robot.
 
 ![Robot](/multimedia/Foto_interior1.jpg)
