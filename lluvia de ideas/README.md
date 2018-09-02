@@ -2,7 +2,6 @@
 
 Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración externa.
 Subir bocetos, con una breve expicación de las ideas del boceto.
-## IDEAS ATAQUE:
 ![lluvia1](/multimedia/Idea1.jpeg)
 ![lluvia2](/multimedia/Idea2.jpeg)
 ![lluvia3](/multimedia/Idea3.jpeg)
