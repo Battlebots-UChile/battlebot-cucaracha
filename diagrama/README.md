@@ -1,3 +1,3 @@
 # Diagrama electromecánico
 
-[Diagrama](/multimedia/cucaracha.jpg)
+[Diagrama](/multimedia/Cucaracha.jpg)
