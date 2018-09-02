@@ -5,7 +5,11 @@ Se deben subir:
 - Foto del proyecto terminado
 - Vídeo de demostración/funcionamiento
 
-Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+Vista desde uno de los lados del robot.
+
 ![Robot](/multimedia/Foto_interior1.jpg)
+
+Viste de frente del robot.
+
 ![Robot1](/multimedia/Foto_interior2.jpg)
 
