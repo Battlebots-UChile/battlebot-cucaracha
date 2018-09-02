@@ -7,20 +7,21 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- <Boris Cuevas> - <FCFM>
+- <Victoria Andaur> - <FCFM>
+- <Cristóbal Jaramillo> - <FCFM>
+
 
 
 ## Descripción del proyecto
+Es una robot de pelea o mejor conocido como Battletbot, la idea esque pueda combatir contra otros robot y demostrar sus habilidades.
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+<El arma utilizada es un Hacha asesina, capaz de aniquilar de pocos golpes al rival.>
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+<El robot posee una gran caparazon, resistente, capaz de poder frenar los ataques del rival de manera eficaz.>
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
