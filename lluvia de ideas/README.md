@@ -2,4 +2,4 @@
 
 Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración externa.
 Subir bocetos, con una breve expicación de las ideas del boceto.
-![lluvia de ideas 1](/multimedia/WhatsApp Image 2018-04-04 at 15.31.03.jpg)
+![lluvia de ideas 1](/Multimedia/WhatsApp Image 2018-04-04 at 15.31.03.jpeg)
