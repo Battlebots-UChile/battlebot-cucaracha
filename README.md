@@ -2,7 +2,7 @@
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/Foto_interior2.jpg)
 
 
 
@@ -16,17 +16,17 @@
 
 
 ## Descripción del proyecto
-Es una robot de pelea o mejor conocido como Battletbot, la idea esque pueda combatir contra otros robot y demostrar sus habilidades.
+Es una robot de pelea o mejor conocido como Battletbot, la idea es que pueda combatir contra otros robot y demostrar sus habilidades.
 
 ### Estrategia utilizada
 #### Ofensiva
-<El arma utilizada es un Hacha asesina, capaz de aniquilar de pocos golpes al rival.>
+El arma utilizada es un Hacha asesina, capaz de aniquilar de pocos golpes al rival.
 
 #### Defensiva
-<El robot posee una gran caparazon, resistente, capaz de poder frenar los ataques del rival de manera eficaz.>
+El robot posee una gran caparazon, resistente, capaz de poder frenar los ataques del rival de manera eficaz.
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.
 
 ### *BONUS*: Paso a Paso
 <Explicar brevemente el paso a paso de cómo construir el battlebot.>
