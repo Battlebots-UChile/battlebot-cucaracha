@@ -6,3 +6,6 @@ Se deben subir:
 - Vídeo de demostración/funcionamiento
 
 Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+![Robot](/multimedia/Foto_interior1.jpg)
+![Robot1](/multimedia/Foto_interior2.jpg)
+
