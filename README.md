@@ -1,4 +1,4 @@
-# <Título del proyecto> - <Año>
+# <La cucaracha> - <2018>
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
@@ -7,9 +7,9 @@
 
 
 ## Integrantes
-- <Boris Cuevas> - <FCFM>
-- <Victoria Andaur> - <FCFM>
-- <Cristóbal Jaramillo> - <FCFM>
+- < Boris Cuevas > - <FCFM>
+- < Victoria Andaur > - <FCFM>
+- < Cristóbal Jaramillo > - <FCFM>
 
 
 
