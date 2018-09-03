@@ -21,13 +21,13 @@ Es una robot de pelea o mejor conocido como Battletbot, la idea es que pueda com
 
 ### Estrategia utilizada
 #### Ofensiva
-El arma utilizada es un Hacha asesina, capaz de aniquilar de pocos golpes al rival.
+El arma utilizada es un Hacha asesina, capaz de aniquilar de pocos golpes al rival, funciona con un motor capaz de levantarla.
 
 #### Defensiva
 El robot posee una gran caparazon, resistente, capaz de poder frenar los ataques del rival de manera eficaz.
 
 ### Diagrama funcional
-Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.
+![Diagrama](/multimedia/Cucaracha.jpg)
 
 ### *BONUS*: Paso a Paso
 Primero obtener las piezas (motores, baterias, base,etc) y luego armar la base.
