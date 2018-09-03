@@ -17,7 +17,8 @@ dedicado a la creacion de battlebots
 
 
 ## Descripción del proyecto
-Es una robot de pelea o mejor conocido como Battletbot, la idea es que pueda combatir contra otros robot y demostrar sus habilidades.
+Es una robot de pelea o mejor conocido como Battletbot, la idea es que pueda combatir contra otros robot y demostrar sus habilidades. Este sera puesto a prueba en una epica pelea, donde debera combatir frente a los robots de nuestros compañeros
+para obtener el preciado trofeo de Battlebots Uchile
 
 ### Estrategia utilizada
 #### Ofensiva
