@@ -1,6 +1,6 @@
 # La cucaracha - 2018
-<La cucaracha, es un robot destructor, capaz de aniquilar todo a su paso (o eso intenta), realizado para un taller de proyecto
-dedicado a la creacion de battlebots>
+La cucaracha, es un robot destructor, capaz de aniquilar todo a su paso (o eso intenta), realizado para un taller de proyecto
+dedicado a la creacion de battlebots
 
 
 ![Robot Ejemplo](/multimedia/Foto_interior2.jpg)
